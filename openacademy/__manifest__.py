@@ -29,7 +29,10 @@
         'templates.xml',
         'views/openacademy.xml',
         'views/course.xml',
+<<<<<<< HEAD
+=======
         'views/session.xml',
+>>>>>>> fe9aab6d3bd8c5172c38337993c74b6824616c6b
     ],
     # only loaded in demonstration mode
     'demo': [
