@@ -8,12 +8,8 @@
                 <form string="Course Form">
                     <sheet>
                         <group>
-<<<<<<< HEAD
-                            <field name="name"/>                        
-=======
                             <field name="name"/>
                             <field name="responsible_id"/>                        
->>>>>>> fe9aab6d3bd8c5172c38337993c74b6824616c6b
                         </group>
 
                         <notebook>
@@ -41,8 +37,6 @@
             </field>
         </record>
 
-<<<<<<< HEAD
-=======
         <!-- override the automatically generated list view for courses -->
         <record model="ir.ui.view" id="course_tree_view">
             <field name="name">course.tree</field>
@@ -55,5 +49,4 @@
             </field>
         </record>
 
->>>>>>> fe9aab6d3bd8c5172c38337993c74b6824616c6b
 </odoo>
