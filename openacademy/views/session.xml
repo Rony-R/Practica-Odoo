@@ -76,6 +76,8 @@
         </field>
     </record>
 
+    <!--Kanban-->
+
     <record model="ir.actions.act_window" id="session_list_action">
         <field name="name">Sessions</field>
         <field name="res_model">openacademy.session</field>
